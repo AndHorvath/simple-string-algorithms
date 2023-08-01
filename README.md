@@ -1,1 +1,1 @@
-# SimpleStringAlgorithms
+# Simple string algorithms
